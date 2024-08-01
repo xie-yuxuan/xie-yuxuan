@@ -4,6 +4,9 @@ I'm Yuxuan from Singapore, currently a graduate student studying Information and
 
 I work on projects in the field of data science, analytics and various engineering applications. You can check out some of my repositories here and my Linkedin profile at https://www.linkedin.com/in/andrew-xie1/. ✨ You may also contact me at yx353@cam.ac.uk.
 
+![](https://komarev.com/ghpvc/?username=xie-yuxuan)
+
+
 <!--
 
 [![Yuxuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xie-yuxuan)](https://github.com/xie-yuxuan/github-readme-stats)
