@@ -4,7 +4,7 @@
 
 I'm Yuxuan from Singapore, currently a graduate student studying Information and Computer Engineering 👨🏼‍💻 at the University of Cambridge. I am interested in using data analytics and machine learning to improve performance and drive innovation. 
 
-I work on projects in the field of data science, analytics and various engineering applications. I also make widgets for my personal notion pages. You can check out some of my repositories here and my Linkedin profile at https://www.linkedin.com/in/andrew-xie1/. ✨ You may also contact me at yx353@cam.ac.uk.
+I work on projects in the field of data science, analytics and various engineering applications. I also create widgets for my personal Notion pages. You can check out some of my repositories here and my Linkedin profile at https://www.linkedin.com/in/andrew-xie1/. ✨ You may also contact me at yx353@cam.ac.uk.
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
